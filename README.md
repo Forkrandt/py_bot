@@ -1,1 +1,1 @@
-# py_bot
+# python bot
